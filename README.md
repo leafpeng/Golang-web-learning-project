@@ -1,2 +1,2 @@
-# Golang-webapp-learning-project
+# Golang-web-learning-project
 learning project
